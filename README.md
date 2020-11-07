@@ -1,6 +1,6 @@
 # meno_app
 
-A new Flutter project.
+A Emotion Based ToDo App in Flutter.
 
 ## Getting Started
 
