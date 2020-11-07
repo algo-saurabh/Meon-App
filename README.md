@@ -1,6 +1,6 @@
-# meno_app
+# meon_app
 
-A Emotion Based ToDo App in Flutter.
+Emotion Based ToDo App in Flutter.
 
 ## Getting Started
 
