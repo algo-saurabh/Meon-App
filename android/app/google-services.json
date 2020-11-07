@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "405549572411",
+    "firebase_url": "https://baby-names-dd02b.firebaseio.com",
+    "project_id": "baby-names-dd02b",
+    "storage_bucket": "baby-names-dd02b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405549572411:android:4264c812cc55750100171e",
+        "android_client_info": {
+          "package_name": "com.example.baby_names"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405549572411-qfg4abhba3h9dev6p9c8njb7lfc3pma3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPIRtz3X68T3TqzXrJjw4IGTCl2BYBSUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405549572411-qfg4abhba3h9dev6p9c8njb7lfc3pma3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405549572411:android:9c846a91a1e2b68500171e",
+        "android_client_info": {
+          "package_name": "com.example.meno_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405549572411-qfg4abhba3h9dev6p9c8njb7lfc3pma3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPIRtz3X68T3TqzXrJjw4IGTCl2BYBSUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405549572411-qfg4abhba3h9dev6p9c8njb7lfc3pma3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405549572411:android:1814f030946be45100171e",
+        "android_client_info": {
+          "package_name": "com.example.test_firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405549572411-qfg4abhba3h9dev6p9c8njb7lfc3pma3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPIRtz3X68T3TqzXrJjw4IGTCl2BYBSUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405549572411-qfg4abhba3h9dev6p9c8njb7lfc3pma3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
