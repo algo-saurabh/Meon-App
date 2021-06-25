@@ -1,7 +1,7 @@
 ## meon_app
 
 Emotion Based ToDo App using Flutter and Firebase. Human emotion is used to limit the daily tasks and there is a personal diary section.
-Design link: https://chiragbadhal.github.io/1/portfolio-single-3.html
+Design link: https://chiragbadhal.github.io/1.html
 
 ## Getting Started
 
